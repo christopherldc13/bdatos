@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bdatos</string>
+    <string name="codigo">Ingrese el código</string>
+    <string name="descripcion">Ingrese la descripción</string>
+    <string name="precio">Ingrese el precio</string>
+    <string name="todo">Botón para insertar</string>
+</resources>
