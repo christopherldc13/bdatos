@@ -2,4 +2,5 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorInsertar">#4CAF50</color> <color name="colorBuscar">#2196F3</color>   <color name="colorEditar">#FF9800</color>    <color name="colorEliminar">#F44336</color>
 </resources>
